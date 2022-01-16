@@ -19,3 +19,5 @@ NEXT_PUBLIC_AIRDROP_TOKEN=
 
 NEXT_PUBLIC_SOLANA_NETWORK=
 NEXT_PUBLIC_SOLANA_RPC_HOST=
+
+# How to build it? i think static build, because next export does not work by linking the static/chunks...
